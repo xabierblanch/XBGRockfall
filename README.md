@@ -1,4 +1,4 @@
-# XBGRockfall
+# XBGRockfall (Software for the automation of rockfall identification)
 Author: Xabier Blanch<br/>
 Contact: xabierblanch@gmail.com<br/>
 
