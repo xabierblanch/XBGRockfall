@@ -2,12 +2,17 @@
 Author: Xabier Blanch<br/>
 Contact: xabierblanch@gmail.com<br/>
 
-Codes and scripts programmed for the correct operation of DSLR systems installed in La Alhambra (Granada).
-Codes developed as part of a doctoral research at Universtiy of Barcelona (PhD)
+Software (codes and folders) developed for the automation of rockfall identification from fixed photogrammetric systems (for example [HRCam-System](https://github.com/xabierblanch/HRCam-System)).
+
+This software uses part of the MEMI workflow ([MEMI_Workflow](https://github.com/xabierblanch/MEMI_Workflow)) and can be complemented with the Machine Learning identification algorithm ([ML Rockfall](https://github.com/xabierblanch/ML_Rockfall)).
+
+Codes developed as part of a doctoral research at Universtiy of Barcelona (PhD). All these codes are developed for a particular case, some modifications will be necessary. If you use these codes or if they inspire you in your work, please share it with me :D (And cite it correctly).
 
 How to cite:
 -----
-Pending publication (PhD thesis)
+* I. Pending publication (PhD thesis)
+
+* II. Blanch, X.; Eltner, A.; Guinau, M.; Abellan, A. Multi-Epoch and Multi-Imagery (MEMI) Photogrammetric Workflow for Enhanced Change Detection Using Time-Lapse Cameras. Remote Sens. 2021, 13, 1460. https://doi.org/10.3390/rs13081460
 
 Images:
 -----
