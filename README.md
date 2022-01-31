@@ -10,9 +10,9 @@ Codes developed as part of a doctoral research at Universtiy of Barcelona (PhD).
 
 How to cite:
 -----
-* I. Pending publication (PhD thesis)
+* Pending publication (PhD thesis)
 
-* II. Blanch, X.; Eltner, A.; Guinau, M.; Abellan, A. Multi-Epoch and Multi-Imagery (MEMI) Photogrammetric Workflow for Enhanced Change Detection Using Time-Lapse Cameras. Remote Sens. 2021, 13, 1460. https://doi.org/10.3390/rs13081460
+* Blanch, X.; Eltner, A.; Guinau, M.; Abellan, A. Multi-Epoch and Multi-Imagery (MEMI) Photogrammetric Workflow for Enhanced Change Detection Using Time-Lapse Cameras. Remote Sens. 2021, 13, 1460. https://doi.org/10.3390/rs13081460
 
 Images:
 -----
